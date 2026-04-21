@@ -34,7 +34,7 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 
  const msg = `╭⭓ ⪩ 𝐁𝐎𝐓𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 ⪨
 │
-├─ 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭
+├─ 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ─꯭─⃝‌‌𝐉𝐮𝐛𝐚𝐲𝐞 𝐗 𝐁𝐨𝐭
 ├─ ☢️ 𝗣𝗿𝗲𝗳𝗶𝘅 : ${config.PREFIX}
 ├─ ♻️ 𝗣𝗿𝗲𝗳𝗶𝘅 𝗕𝗼𝘅 : ${prefix}
 ├─ 🔶 𝗠𝗼𝗱𝘂𝗹𝗲𝘀 : ${commands.size}
@@ -44,13 +44,13 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 
 ╭⭓ ⪩ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ⪨
 │
-├─ 👑 𝗡𝗮𝗺𝗲 : 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦
+├─ 👑 𝗡𝗮𝗺𝗲 : 𝐉𝐔𝐁𝐀𝐘𝐄𝐑 𝐁𝐀𝐁𝐘
 ├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-│ facebook.com/61575698041722
+│ facebook.com/100064028587522
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-│ m.me/61575698041722
+│ m.me/100064028587522
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
-│ wa.me/+8801882333052
+│ wa.me/+8801828047584
 │
 ╰───────⭓
 
@@ -62,13 +62,13 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 ╰───────⭓
 
 ❤️ 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 🌺
- 😍─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭😘`;
+ 😍─꯭─⃝‌‌𝐉𝐮𝐛𝐚𝐲𝐞 𝐗 𝐁𝐨𝐭😘`;
 
  const imgLinks = [
- "https://i.imgur.com/zqsuJnX.jpeg",
- "https://i.imgur.com/sxSn1K3.jpeg",
- "https://i.imgur.com/wu0iDqS.jpeg",
- "https://i.imgur.com/Huz3nAE.png"
+ "https://i.postimg.cc/xT7p4WZR/1742373451784-2.jpg",
+ "https://i.postimg.cc/Nj3V5W7Q/1743425354615.jpg",
+ "https://i.postimg.cc/g2xFwVCD/1743602122535.jpg",
+ "https://i.postimg.cc/13HQnwnj/1665071460141.jpg"
  ];
 
  const imgLink = imgLinks[Math.floor(Math.random() * imgLinks.length)];
